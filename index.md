@@ -1,8 +1,9 @@
 # [BridgetCReed](https://github.com/BridgetCReed)'s slide repository
 
+
 ## Photoshop 101, February 2017
 
-**Meetup**: Here
+> **Meetup**: [Here](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
 
 **Slides**: [Here](https://bridgetcreed.github.io/gdiphilly-photoshop101-feb2017)
 -----
