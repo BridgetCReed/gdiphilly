@@ -4,9 +4,10 @@
 
 ## Quick Links
 
-Name | Date | Venue | Slides Link | Meetup Link
+Name | Date | Chapter | Slides Link | Meetup Link
 --- | --- | --- | --- | ---
-Photoshop 101 for Beginners  | Feb 25, 2017 | Promptworks | [Slides](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062) | [Meetup](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
+Photoshop 101 for Beginners | February  2017 | Philadelphia | [Slides](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062) | [Meetup](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
+Introduction to User-Interface Design Tools | October 2017 | Philadelphia | [Slides](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/242366541) | [Meetup](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/242366541)
 
 ---
 
