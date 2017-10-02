@@ -3,9 +3,8 @@
 ## Photoshop 101
 **February 2017**
 
-[Meetup Page](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
-
-[Slides](https://bridgetcreed.github.io/gdiphilly-photoshop101-feb2017)
+> [Meetup Page](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
+> [Slides](https://bridgetcreed.github.io/gdiphilly-photoshop101-feb2017)
 -----
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
