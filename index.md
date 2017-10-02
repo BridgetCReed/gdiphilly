@@ -1,10 +1,10 @@
 # [BridgetCReed](https://github.com/BridgetCReed)'s slide repository
 
-You can use the [editor on GitHub](https://github.com/BridgetCReed/gdiphilly/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Photoshop 101
+### February 2017
+View the Meetup Page [Here](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+-----
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
