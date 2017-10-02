@@ -3,8 +3,6 @@
 
 ## Photoshop 101, February 2017
 
-> **Meetup**: [Here](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
-
 **Slides**: [Here](https://bridgetcreed.github.io/gdiphilly-photoshop101-feb2017)
 -----
 
