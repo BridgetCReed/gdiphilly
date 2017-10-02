@@ -1,4 +1,4 @@
-# [BridgetCReed](https://github.com/BridgetCReed)'s GDI Philly slide repository
+# [BridgetCReed](https://github.com/BridgetCReed)'s slide repository
 
 You can use the [editor on GitHub](https://github.com/BridgetCReed/gdiphilly/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
