@@ -3,7 +3,7 @@
 
 ## Photoshop 101, February 2017
 
-**Slides**: [Here](https://bridgetcreed.github.io/gdiphilly-photoshop101-feb2017)
+> **Slides**: [Here](https://bridgetcreed.github.io/gdiphilly-photoshop101-feb2017)
 -----
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
