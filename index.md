@@ -6,7 +6,7 @@
 
 Name | Date | Venue | Slides Link | Meetup Link
 --- | --- | --- | --- | ---
-Photoshop 101 for Beginners  | February 25, 2017 | Promptworks | [Slides](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062) | [Meetup](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
+Photoshop 101 for Beginners  | Feb 25, 2017 | Promptworks | [Slides](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062) | [Meetup](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
 
 ---
 
