@@ -3,7 +3,7 @@
 
 ## Photoshop 101, February 2017
 
-View the [Meetup Page](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
+[Meetup Page](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
 
 > View [slides](https://bridgetcreed.github.io/gdiphilly-photoshop101-feb2017)
 
