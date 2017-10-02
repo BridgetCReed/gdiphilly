@@ -3,7 +3,7 @@
 
 ## Photoshop 101, February 2017
 
-> Photoshop is one of the most popular photo editing tools out there for web design. In this beginner workshop, you'll learn about essential options, tools, and simple techniques for working with graphics. [View meetup.](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
+> Photoshop is one of the most popular photo editing tools out there for web design. In this beginner workshop, you'll learn about essential options, tools, and simple techniques for working with graphics. [View full description on Meetup.](https://www.meetup.com/Girl-Develop-It-Philadelphia/events/237414062)
 
 [Slides](https://bridgetcreed.github.io/gdiphilly-photoshop101-feb2017)
 
